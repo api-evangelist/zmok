@@ -1,0 +1,32 @@
+aid: zmok
+name: ZMOK
+description: "Ethereum JSON RPC API and Web3 provider"
+url: https://zmok.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: ZMOK
+    description: "Ethereum JSON RPC API and Web3 provider"
+    humanURL: https://zmok.io
+    baseURL: https://zmok.io
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://zmok.io
+common:
+  - type: Website
+    url: https://zmok.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
