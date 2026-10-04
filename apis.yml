@@ -39,7 +39,6 @@ apis:
   - name: ZMOK
     description: "Ethereum JSON RPC API and Web3 provider"
     humanURL: https://zmok.io
-    baseURL: https://zmok.io
     tags:
       - Cryptocurrency
     properties:
